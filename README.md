@@ -6,7 +6,6 @@
 <h5>뭔가 이렇게 적어놓긴 했지만 아직 응애입니다...<h5>
 
   
-
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,python)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=discord,github)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=unity,unreal)](https://skillicons.dev)
