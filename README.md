@@ -7,5 +7,6 @@
 
   
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,python)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=discord,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,python)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=discord,github)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=unity,unreal)](https://skillicons.dev)
